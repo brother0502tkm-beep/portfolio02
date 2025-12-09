@@ -37,4 +37,13 @@ https://github.com/brother0502tkm-beep/portfolio02
 Figma デザインカンプをもとにコーディング全般を担当
 
 ## ■ スクリーンショット
-（後から追加予定）
+
+### ▼ ファーストビュー  
+![トップ画像](./assets/fv.png)
+
+### ▼ 商品一覧セクション  
+![商品一覧](./assets/items.png)
+
+### ▼ フッター  
+![フッター](./assets/footer.png)
+
